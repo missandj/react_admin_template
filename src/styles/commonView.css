@@ -1,0 +1,42 @@
+.add_btn {
+  margin-top: 9px; /* (50 -32)/2  */
+}
+.input_width {
+  width: 200px;
+}
+.delModal .ant-modal-header,
+.delModal .ant-modal-footer,
+.addOrEditModal .ant-modal-header,
+.addOrEditModal .ant-modal-footer {
+  border: none;
+}
+
+.modalInputLine {
+  width: 100%;
+  margin: 15px 0px;
+}
+.modalTitle_line {
+  display: inline-block;
+  width: 80px;
+  text-align: right;
+}
+.modalInput_width {
+  width: 300px;
+}
+
+.button_radius {
+  border-radius: 6px;
+}
+.textbox {
+  width: 300px;
+  height: 200px;
+  border: 1px solid #d4d4d4;
+  border-radius: 2px;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.line_view .ant-pagination-options-quick-jumper {
+  height: 50px;
+  line-height: 50px;
+}

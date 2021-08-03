@@ -1,0 +1,52 @@
+.addOrEditModal {
+}
+.add_btn {
+  margin-top: 9px; /* (50 -32)/2  */
+}
+.delModal .ant-modal-header,
+.delModal .ant-modal-footer,
+.addOrEditModal .ant-modal-header,
+.addOrEditModal .ant-modal-footer {
+  border: none;
+}
+
+.modalInputLine {
+  width: 100%;
+  margin: 15px 0px;
+}
+
+.input_width {
+  width: 420px;
+}
+.modalInput_width {
+  width: 420px;
+}
+.modalTitle_line {
+  display: inline-block;
+  width: 120px;
+  text-align: right;
+}
+.textbox {
+  width: 420px;
+  height: 200px;
+  border: 1px solid #d4d4d4;
+  border-radius: 2px;
+  padding: 10px;
+  overflow-y: auto;
+}
+.uploadingImg {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.button_radius {
+  border-radius: 6px;
+}
+
+#editor {
+  width: 420px;
+}
+.addBtn {
+  margin: 10px 145px;
+}
